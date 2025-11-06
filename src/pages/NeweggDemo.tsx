@@ -29,7 +29,7 @@ const NeweggDemo = () => {
 
     try {
       const response = await fetch(
-        `https://muscles-sailing-filtering-wealth.trycloudflare.com/product/${itemNumber.trim()}`
+        `https://javascript-declaration-anne-birds.trycloudflare.com/product/${itemNumber.trim()}`
       );
       
       if (!response.ok) {
