@@ -29,7 +29,7 @@ const MyntraDemo = () => {
 
     try {
       const response = await fetch(
-        `https://wars-passage-plate-desirable.trycloudflare.com/products/${productCode.trim()}`
+        `https://forms-retreat-involves-dream.trycloudflare.com/products/${productCode.trim()}`
       );
       
       if (!response.ok) {
