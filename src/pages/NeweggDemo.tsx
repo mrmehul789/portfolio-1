@@ -29,7 +29,7 @@ const NeweggDemo = () => {
 
     try {
       const response = await fetch(
-        `https://javascript-declaration-anne-birds.trycloudflare.com/product/${itemNumber.trim()}`
+        `https://planets-embassy-animation-medline.trycloudflare.com/product/${itemNumber.trim()}`
       );
       
       if (!response.ok) {
